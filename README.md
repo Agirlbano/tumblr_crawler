@@ -1,6 +1,10 @@
 ## Before Read
 
-我想你们不缺这个爬虫，可能缺all_sites.txt
+爬虫脚本本事也是下载别人的，
+
+我想你们不缺这个爬虫，你们可能缺all_sites.txt。
+
+看中文版教程，自己配置sites.txt，可以用all_sites.txt加入sites.txt
 
 
 
